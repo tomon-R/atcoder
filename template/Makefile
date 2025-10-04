@@ -1,6 +1,6 @@
 # ===== Settings =====
 CXX := g++
-CXXFLAGS := -std=gnu++20 -O2 -Wall -Wextra -DLOCAL -I~/atcoder/ac-library
+CXXFLAGS := -std=gnu++20 -O2 -g -Wall -Wextra -DLOCAL -I~/atcoder/ac-library
 LDFLAGS :=
 BUILD_DIR := build
 
